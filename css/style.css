@@ -1,0 +1,29 @@
+body{
+  background-color: #92355D22;
+  font-family: sans-serif;
+  font-style: normal;
+}
+img{
+  background-color: #AA0505;
+  height: 250px;
+}
+h1{
+  color: #DD0202BB;
+}
+h3:hover{
+   
+   color:gold;
+ }
+img:hover{
+  background-color: gold;
+}
+p{
+  color:#AA0505;
+}
+a:hover{
+  background-color: #DD020277;
+}
+h3{
+  color:#AA0505;
+  font-size: 7em;
+}
